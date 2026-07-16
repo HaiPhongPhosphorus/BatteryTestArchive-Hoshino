@@ -1,3 +1,6 @@
+<img width="983" height="640" alt="BatteryTest Archive" src="https://github.com/user-attachments/assets/54b07591-4db1-40a5-bcbb-7b9a880ba106" />
+<img width="983" height="640" alt="BatteryTest Archive" src="https://github.com/user-attachments/assets/934a7c75-2272-42c7-9a41-aa79df45f38a" />
+<img width="983" height="640" alt="BatteryTest Archive" src="https://github.com/user-attachments/assets/ed3c8e7e-4664-4ffc-8703-f5fad283c92b" />
 # 📱 Blue Manager - Abydos Edition (v1.0.0)
 
 > **"Uhe~ You've worked hard all day, Sensei. Let Oji-san keep an eye on your laptop battery for you!"**
